@@ -13,10 +13,10 @@ public class Main {
 
         employee2.setName("Hana");
         employee2.setAge(29);
-        // employee2.setSalary(2400, 1500, 1000);
+        employee2.setSalary(2400, 1500, 1000);
 
-        employee.showEmployeeDetails(employee);
-        employee2.showEmployeeDetails(employee2);
+        employee.showEmployeeDetails();
+        employee2.showEmployeeDetails();
 
         double employeeGetSalaryResult = employee.mediaSalary(employee.getSalary());
         double employee2GetSalaryResult = employee.mediaSalary(employee2.getSalary());

@@ -40,9 +40,9 @@ public class Employee {
         this.salary = salary;
     }
 
-    public void showEmployeeDetails(Employee employee) {
-        System.out.println("{Name: " + employee.getName() + " Age: " + employee.getAge() + " Salary: "
-                + String.format("%.2f", employee.mediaSalary(employee.getSalary())) + "}");
+    public void showEmployeeDetails() {
+        System.out.println("{Name: " + this.name + " Age: " + this.age + " Salary: "
+                + String.format("%.2f", this.mediaSalary(this.salary)) + "}");
     }
 
     public double mediaSalary(double... salary) {
