@@ -45,7 +45,7 @@
 - [x]  40 - Orientação Objetos - Introdução classes pt 02
 - [x]  41 - Orientação Objetos - Coesão
 - [x]  42 - Orientação Objetos - Exercício Classes
-- 43 - Orientação Objetos - Referência de objetos
+- [x] 43 - Orientação Objetos - Referência de objetos
 - 44 - Orientação Objetos - Métodos pt 01
 - 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
 - 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
