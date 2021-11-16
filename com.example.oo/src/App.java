@@ -1,4 +1,5 @@
 import domain.Car;
+import example.Varargs;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -15,5 +16,8 @@ public class App {
 
         System.out.println("Fiat: " + fiat);
         System.out.println("Ford: " + ford);
+
+        Varargs varargs = new Varargs();
+        varargs.sumAllNumbers(1,2,3,4,5);
     }
 }

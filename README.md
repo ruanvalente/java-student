@@ -46,16 +46,16 @@
 - [x]  41 - Orientação Objetos - Coesão
 - [x]  42 - Orientação Objetos - Exercício Classes
 - [x] 43 - Orientação Objetos - Referência de objetos
-- 44 - Orientação Objetos - Métodos pt 01
-- 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-- 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
-- 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
-- 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
-- 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência
-- 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
-- 51 - Orientação Objetos - Métodos pt 08 - Referência this
-- 52 - Orientação Objetos - Métodos pt 09 - Varargs
-- 53 - Orientação Objetos - Métodos pt 10 - Exercise
+- [x] 44 - Orientação Objetos - Métodos pt 01
+- [x] 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
+- [x] 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
+- [x] 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
+- [x] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+- [x] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência
+- [x] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
+- [x] 51 - Orientação Objetos - Métodos pt 08 - Referência this
+- [x] 52 - Orientação Objetos - Métodos pt 09 - Varargs
+- [x] 53 - Orientação Objetos - Métodos pt 10 - Exercise
 - 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
 - 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 - 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
