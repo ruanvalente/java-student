@@ -1,4 +1,4 @@
-package example;
+package example.domain;
 
 public class Varargs {
     public void sumAllNumbers(int... numbers) {

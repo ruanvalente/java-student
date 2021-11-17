@@ -1,5 +1,5 @@
 import domain.Car;
-import example.Varargs;
+import example.domain.Varargs;
 
 public class App {
     public static void main(String[] args) throws Exception {
