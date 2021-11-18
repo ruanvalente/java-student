@@ -67,10 +67,10 @@
 - [x] Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
 - [x] Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
 - [x] Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
-- [] Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
-- [] Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
-- [] Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
-- [] Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
+- [x] Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
+- [x] Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
+- [x] Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
+- [x] Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
 - [] Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
 - [] Maratona Java 71 - Orientação Objetos - Herança pt 01
 - [] Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
