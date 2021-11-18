@@ -3,12 +3,12 @@ package example.domain;
 public class Teacher {
     private String name;
 
+    public Teacher() {
+    }
+
     public Teacher(String name) {
         this.name = name;
     }
-
-    public Teacher() { }
-
 
     public String getName() {
         return this.name;

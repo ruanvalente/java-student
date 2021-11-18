@@ -1,5 +1,3 @@
-package exercice;
-
 import exercice.domain.Employee;
 
 public class Main {
@@ -25,4 +23,3 @@ public class Main {
         System.out.println(String.format("%.2f", employee2GetSalaryResult));
     }
 }
- 
