@@ -1,17 +1,17 @@
 package example.services;
 
-import example.domain.Computer;
+import example.domain.Product;
 
 public class CalculateTax {
-    public static void calculateTaxComputer(Computer computer) {
+    public static void calculateTax(Product product) {
         System.out.println("Relatório de imposto do computador");
         System.out.println("-------------xxxxxxxx--------------");
 
-        double tax = computer.CalculateProductTax();
+        double tax = product.CalculateProductTax();
 
-        System.out.println("Nome do produto: " + computer.getName());
+        System.out.println("Nome do produto: " + product.getName());
         System.out.println("- - - - - - - - - - - - - - - - - - - -");
-        System.out.println("Valor do imposto: " + computer.getValue());
+        System.out.println("Valor do imposto: " + product.getValue());
         System.out.println("- - - - - - - - - - - - - - - - - - - -");
         System.out.println("Imposto a ser pago: " + tax);
     }
