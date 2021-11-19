@@ -1,6 +1,6 @@
 out
 server
-node_modules
+.idea
 *.vsix
 .DS_Store
 .vscode-test
