@@ -16,7 +16,7 @@ public class StudentTest {
 
 
 
-        String result = Student.searchTech(studentTech, "asasa");
+        String result = Student.searchTech(studentTech3, "Azure");
 
         System.out.println(result);
         System.out.println(student);

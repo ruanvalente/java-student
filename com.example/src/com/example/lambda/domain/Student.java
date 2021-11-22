@@ -2,7 +2,6 @@ package com.example.lambda.domain;
 
 import java.util.Arrays;
 
-
 public class Student {
     public String name;
     public int age;
@@ -18,6 +17,7 @@ public class Student {
 
     public static String searchTech(String[] tech, String techName) {
         return Arrays.stream(tech)
+
                 .filter((t) -> t.equals(techName))
                 .findAny()
                 .orElse("A tecnologia " + techName + " não foi encontrada");
