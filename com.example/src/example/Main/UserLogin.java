@@ -16,7 +16,7 @@ public class UserLogin {
         String name = "user";
         String password = "123";
 
-        if(!name.equals(name) || !password.equals(password)) {
+        if(!name.equals("user") || !password.equals("123")) {
             throw new CustomExceptionLogin();
         }
         System.out.println("Usuário logado com sucesso");
