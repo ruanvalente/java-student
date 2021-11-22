@@ -71,42 +71,42 @@
 - [x] Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
 - [x] Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 - [x] Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
-- [] Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
-- [] Maratona Java 71 - Orientação Objetos - Herança pt 01
-- [] Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
-- [] Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
-- [] Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
-- [] Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
-- [] Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString 
-- [] Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
-- [] Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
-- [] Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
-- [] Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
-- [] Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
-- [] Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
-- [] Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
-- [] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
-- [] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
-- [] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
-- [] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
-- [] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
-- [] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
-- [] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
-- [] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
-- [] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
-- [] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
-- [] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
-- [] Maratona Java 95 - Exceções pt 01 - Errors
-- [] Maratona Java 96 - Exceções pt 02 - RuntimeException
-- [] Maratona Java 97 - Exceções pt 03 - Exception
-- [] Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
-- [] Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
-- [] Maratona Java 100 - Exceções pt 06 - Bloco Finally
-- [] Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
-- [] Maratona Java 102 - Exceções pt 08 - Multi catch em linha
-- [] Maratona Java 103 - Exceções pt 09 - Try with resources
-- [] Maratona Java 104 - Exceções pt 10 - Exceção customizada
-- [] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
+- [x] Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
+- [x] Maratona Java 71 - Orientação Objetos - Herança pt 01
+- [x] Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
+- [x] Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
+- [x] Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
+- [x] Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
+- [x] Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString 
+- [x] Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
+- [x] Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
+- [x] Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
+- [x] Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
+- [x] Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
+- [x] Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
+- [x] Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
+- [x] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
+- [x] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
+- [x] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
+- [x] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
+- [x] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
+- [x] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
+- [x] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
+- [x] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
+- [x] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
+- [x] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
+- [x] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
+- [x] Maratona Java 95 - Exceções pt 01 - Errors
+- [x] Maratona Java 96 - Exceções pt 02 - RuntimeException
+- [x] Maratona Java 97 - Exceções pt 03 - Exception
+- [x] Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
+- [x] Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
+- [x] Maratona Java 100 - Exceções pt 06 - Bloco Finally
+- [x] Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
+- [x] Maratona Java 102 - Exceções pt 08 - Multi catch em linha
+- [x] Maratona Java 103 - Exceções pt 09 - Try with resources
+- [x] Maratona Java 104 - Exceções pt 10 - Exceção customizada
+- [x] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
 - [] Maratona Java 106 - Classes Utilitárias - Wrappers pt 01
 - [] Maratona Java 107 - Classes Utilitárias - Wrappers pt 02
 - [] Maratona Java 108 - Classes Utilitárias - Strings pt 01
